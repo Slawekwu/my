@@ -13,4 +13,6 @@ for name in names:
     author.add(name.text)
     print(author)
 
+    coś tam jeszcze
+
 
